@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmhqeXRvOTJtNnNsYWFycmgxaXNrMGZsaHY3NDl1c3p4MzFsbTFwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XW9RIJTJ6O7bjomEA3/giphy.gif" width="300"/><br>
-  <h1 align="center">Привет, я Лиза</h1>
+  <h1 align="center">👾Привет, я Лиза👾</h1>
 </div>
 <div id="header" align="center">
   <a href="https://t.me/metaltelo"><img src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" width="60" /></a>
