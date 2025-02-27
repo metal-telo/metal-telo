@@ -15,5 +15,3 @@
     <li>📕Иду на красный диплом в колледже информатики и программирования Финансового университета при Правительстве РФ</li>
   </ul>
 </div>
-### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=metal-telo&theme=dark)](https://git.io/streak-stats)
