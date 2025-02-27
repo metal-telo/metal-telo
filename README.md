@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/06550992-e520-421e-985c-8fa23fa8286a" align="center" width="400"/>
+<img src="https://github.com/user-attachments/assets/57dc60c8-adba-421a-8a6e-787f35d24eef" align="center" width="400"/>
 <h1 align="center">Привет, я Лиза</h1>
 <div id="header" align="center">
   <a href="https://t.me/metaltelo"><img src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" width="60" /></a>
