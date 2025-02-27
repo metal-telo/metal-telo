@@ -22,4 +22,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/4c87bbd620cb0bfd5174aa620fb029828fc09d71aa0280966c01eeaaffb63b02/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070267468656d653d6461726b"  title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/1594bb61e85b22739a2e8fa02ea68154f8969efc2f280a47f2602f99d5f0fc0e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/730577f274566576ff88e28ea042fea703254659dd140c5478ce1423f07f4855/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/bf5fd936b65e326e4c714644e3d84bd3e7c64e984b6a2a06d93371cdc14967f0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465267468656d653d6461726b"  title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
 </div>
