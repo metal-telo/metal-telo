@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/8f8c561a-5b00-4d2f-a9d1-ec99c7a39ab7" width="400"/><br>
+  <img src="https://github.com/user-attachments/assets/06550992-e520-421e-985c-8fa23fa8286a" width="400"/><br>
   <a href="https://t.me/metaltelo"><img src="https://img.icons8.com/?size=100&id=114954&format=png&color=000000" width="60"/></a>
   <a href="https://vk.com/metaltelo"><img src="https://img.icons8.com/?size=100&id=dSdVIYLfZB7v&format=png&color=000000" width="60"/></a>
   <h1 align="center">Привет, я Лиза</h1>
